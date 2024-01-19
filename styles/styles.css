@@ -1,0 +1,17 @@
+.navegacion {
+background-color: rgb(211, 227, 191);
+display: flex;
+justify-content: space-between;
+    
+}
+
+
+#titulo{
+    background-color: grey;
+}
+
+#encabezado{
+    height: 100px;
+    width: 100px;
+
+}
