@@ -1,17 +1,43 @@
-.navegacion {
-background-color: rgb(211, 227, 191);
-display: flex;
-justify-content: space-between;
+body{
+    background-color: rgb(208, 198, 186);
+    margin: 0;
+}
+
+header img{
+    height: 50px;
+
+}
+header{
+    background-color: rgb(71, 68, 68);
+    display: flex;
+    justify-content: space-between;
+    min-width: 70px;
+    align-items: center;
+
+}
+
+header a{
+    color: aliceblue;
+    text-decoration: none;
+  
+}
+ .logo{
+    display: flex;
+    align-items: center;
+
+ }
+
+ div a {
+    font-weight: 600;
+    padding: 10px;
     
-}
+ }
 
+ div img {
+    height: 18px;
+  
+ }
 
-#titulo{
-    background-color: grey;
-}
-
-#encabezado{
-    height: 100px;
-    width: 100px;
-
-}
+ .logo img{
+    margin-right: 10px;
+ }
