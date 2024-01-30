@@ -1,43 +1,8 @@
 body{
-    background-color: rgb(208, 198, 186);
-    margin: 0;
-}
-
-header img{
-    height: 50px;
-
-}
-header{
-    background-color: rgb(71, 68, 68);
-    display: flex;
-    justify-content: space-between;
-    min-width: 70px;
-    align-items: center;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box ;
+  font-family: sans-serif;
 
 }
 
-header a{
-    color: aliceblue;
-    text-decoration: none;
-  
-}
- .logo{
-    display: flex;
-    align-items: center;
-
- }
-
- div a {
-    font-weight: 600;
-    padding: 10px;
-    
- }
-
- div img {
-    height: 18px;
-  
- }
-
- .logo img{
-    margin-right: 10px;
- }
